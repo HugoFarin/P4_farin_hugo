@@ -1039,4 +1039,9 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+    a[data-lightbox]{
+        width: 320px;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
